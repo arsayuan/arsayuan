@@ -10,8 +10,8 @@
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arsayuan&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=arsayuan&theme=city_lights&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=arsayuan&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=arsayuan&theme=city_lights&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsayuan&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
